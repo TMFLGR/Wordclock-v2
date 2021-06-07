@@ -52,34 +52,34 @@ int * init_array(int from, int to) {
 static const int * WORD_ES = init_array(109, 110);
 static const int * WORD_IST = init_array(105, 107);
 
-static const int WORD_IST[] = init_array(105, 106):
-static const int WORD_UHR[] = init_array(9, 11);
+static const int * WORD_IST = init_array(105, 106);
+static const int * WORD_UHR = init_array(9, 11);
 
-static const int WORD_VOR[] = init_array(67, 69);
-static const int WORD_NACH[] = init_array(74, 77);
-static const int WORD_VIERTEL[] = init_array(78, 84);
-static const int WORD_HALB[] = init_array(70, 73);
-static const int WORD_UND[] = init_array(89, 91);
+static const int * WORD_VOR = init_array(67, 69);
+static const int * WORD_NACH = init_array(74, 77);
+static const int * WORD_VIERTEL = init_array(78, 84);
+static const int * WORD_HALB = init_array(70, 73);
+static const int * WORD_UND = init_array(89, 91);
 
-static const int WORD_EIN[] = init_array(45, 47);
-static const int WORD_EINS[] = init_array(47, 48);
-static const int WORD_ZWEI[] = init_array(52, 55);
-static const int WORD_DREI[] = init_array(41, 44);
-static const int WORD_VIER[] = init_array(34, 37);
+static const int * WORD_EIN = init_array(45, 47);
+static const int * WORD_EINS = init_array(47, 48);
+static const int * WORD_ZWEI = init_array(52, 55);
+static const int * WORD_DREI = init_array(41, 44);
+static const int * WORD_VIER = init_array(34, 37);
 
-static const int WORD_FUENF1[] = init_array(100, 103);
-static const int WORD_FUENF2[] = init_array(56, 59);
+static const int * WORD_FUENF1 = init_array(100, 103);
+static const int * WORD_FUENF2 = init_array(56, 59);
 
-static const int WORD_SECHS[] = init_array(23, 28);
-static const int WORD_SIEBEN[] = init_array(17, 22);
-static const int WORD_ACHT[] = init_array(30, 33);
-static const int WORD_NEUN[] = init_array(63, 66);
+static const int * WORD_SECHS = init_array(23, 28);
+static const int * WORD_SIEBEN = init_array(17, 22);
+static const int * WORD_ACHT = init_array(30, 33);
+static const int * WORD_NEUN = init_array(63, 66);
 
-static const int WORD_ZEHN1[] = init_array(85, 88);
-static const int WORD_ZEHN2[] = init_array(1, 4);
+static const int * WORD_ZEHN1 = init_array(85, 88);
+static const int * WORD_ZEHN2 = init_array(1, 4);
 
-static const int WORD_ELF[] = init_array(49, 51);
-static const int WORD_ZWOELF[] = init_array(12, 16);
-static const int WORD_ZWANZIG[] = init_array(93, 99);
+static const int * WORD_ELF = init_array(49, 51);
+static const int * WORD_ZWOELF = init_array(12, 16);
+static const int * WORD_ZWANZIG = init_array(93, 99);
 
 #endif
